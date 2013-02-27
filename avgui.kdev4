@@ -1,0 +1,4 @@
+[Project]
+Name=avgui
+Manager=KDevCMakeManager
+VersionControl=kdevgit
